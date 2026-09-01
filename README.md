@@ -2,7 +2,7 @@
 
 A PyTorch implementation of a 3-layer minGRU trained to predict the next character in Pride and Prejudice. 
 
-NOTE: pp_dataset is part of modified code that was provided in a university course so it is not provided here. (pride_and_prejuidice.txt is also not provided.)
+NOTE: pp_dataset.py is part of modified code that was provided in a university course so it is not provided here. (pride_and_prejuidice.txt is also not provided.)
 
 # Highlights:
 - 3 layer minGRU
